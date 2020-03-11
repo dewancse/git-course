@@ -6,6 +6,6 @@ def check_add(a, b):
 
 if __name__ == "__main__":
     if check_add(5, 5):
-        print("Calculation is correct")
+        print("Calculation is correct!! Everything is OK.")
     else:
-        print("Calculation is incorrect")
+        print("Calculation is incorrect!! Something is wrong.")
